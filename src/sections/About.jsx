@@ -5,7 +5,7 @@ import { Card } from "@/components/ui/card";
 import { Github, Linkedin, GraduationCap, Star, SquareUserRound } from "lucide-react";
 import RotatingText from "../items/RotatingText";
 import ModernParticles from "../items/Particles";
-import PixelTransition from '../items/pixelTransition';
+import PixelTransition from '../items/PixelTransition';
 import InfiniteScroll from '../items/InfiniteScroll';
 import ScrollVelocity from '../items/ScrollVelocity';
 import PixelCard from '../items/PixelCard'
